@@ -1,3 +1,5 @@
 [
-    { "keys": ["ctrl+shift+enter"], "command": "max_pane" }
+    { "keys": ["ctrl+alt+enter"], "command": "max_pane" },
+    { "keys": ["ctrl+alt+right"], "command": "shift_pane" },
+    { "keys": ["ctrl+alt+left"], "command": "unshift_pane" }
 ]

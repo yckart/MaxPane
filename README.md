@@ -12,11 +12,11 @@ So lets say you have this multi pane setup:
 
 and you want to maximize the active (top left) pane for a sec.
 
-Just press <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> and the active pane is now maximized:
+Just press <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>enter</kbd> and the active pane is now maximized:
 
 ![single pane](https://raw.github.com/jisaacks/MaxPane/3535650829f9bbb7df2d26428589b9bd47b13591/after.png)
 
-Press <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> another time and its back:
+Press <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>enter</kbd> another time and its back:
 
 ![dual pane](https://raw.github.com/jisaacks/MaxPane/3535650829f9bbb7df2d26428589b9bd47b13591/before.png)
 
@@ -24,8 +24,10 @@ Press <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> another time and its back
 
 ### Bonus
 When maximized, you can navigate to your other panes with: 
-<kbd>cmd</kbd>+<kbd>ctrl</kbd>+<kbd>→</kbd> or <kbd>cmd</kbd>+<kbd>ctrl</kbd>+<kbd>←</kbd>
-* _Windows / Linux users will need to setup their own key bindings_
+<kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>→</kbd> or <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>←</kbd>
+
+### Windows / Linux
+Just use <kbd>alt</kbd> instead of <kbd>cmd</kbd> and everything should.
 
 ### Installation
 
