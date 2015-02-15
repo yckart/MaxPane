@@ -27,7 +27,7 @@ When maximized, you can navigate to your other panes with:
 <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>→</kbd> or <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>←</kbd>
 
 ### Windows / Linux
-Just use <kbd>alt</kbd> instead of <kbd>cmd</kbd> and everything should.
+Just use <kbd>alt</kbd> instead of <kbd>cmd</kbd> and everything should work.
 
 ### Installation
 
